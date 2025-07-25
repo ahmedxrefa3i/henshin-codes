@@ -1,6 +1,4 @@
 {
-  "codes": {
-    "MASTER123": { "deviceId": null },
-    "TEST456": { "deviceId": null }
-  }
+  "ABC123": { "used": false, "device_id": "" },
+  "XYZ789": { "used": true, "device_id": "dcefa-34a..." }
 }
